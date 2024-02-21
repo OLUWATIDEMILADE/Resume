@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+<link rel="stylesheet" href="rersume css.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+      
+      <body>
+<header>
+        <h1>OLORUNSOLA OLUWATIDEMILADE AREMU</h1>
+        <p> <img src="c:\Users\komai\Downloads\download phone icon.png" alt="phone icon" width="50" height="50"> (250)792104727
+            <img src="c:\Users\komai\Downloads\save gmail icom.png" alt="gmail" width="50" height="50"> o.olorunsol@alustudent.com
+            <img src="c:\Users\komai\Downloads\git hub icon.png" alt="git" width="50" height="50">OLUWATIDEMILADE</p>
+               
+           <img src="c:\Users\komai\Downloads\IMG-20231214-WA0018.jpg" alt="my bio picture" width="250" height="250">
+</header> 
+
+<section>
+    <h2>EDUCATIONAL BACKGROUND</h2>
+    <pre><p>African Leadership University – Kigali, Rwanda	January,2023 –present
+        B.sc
+        Software Engineering
+        Christ The Redeemer's College – Ogun State, Nigeria. </p></pre>
+</section>
+
+<section>
+    <h3>EXPERIENCE</h3>
+    <p>Photographer	September, 2021 – July, 2022
+    Christ The Redeemer's College – Ogun State, Nigeria.</p>
+</section>
+
+<h4>EXTRACURRICULAR ACTIVITIES</h4>
+<p>Photography ,  Christ The Redeemer's College	
+    During my final year i was one of the main photographers that took photos during school events.</p>
+            
+    <h5>SKILLS</h5>
+    <p>Data Analytics- Level
+        Introduction to Programming and Animation with Alice</p>
+ 
+</body>
+</html>
+
+
