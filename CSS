@@ -1,0 +1,28 @@
+
+r:white; text-align:center; font-size: x-large;}
+body {background-color: green;}
+h2 {color: white; text-align: center; font-size: x-large;}
+p {color: beige; text-align: left; font-size:x-large;}
+header {background-color:darkgreen; border: 15cm;} 
+img {border-radius: 5cm; align-self:center;}
+section {border: 15cm;}
+h3 {color: white; text-align: center; font-size: x-large;}
+h4 {color: white; text-align: center; font-size: x-large;}
+h5 {color: white; text-align: center; font-size: x-large;}
+
+/* Media queries for smaller screens */
+@media screen and (max-width: 768px) {
+    h1, h2, h3, h4, h5 {font-size: large;} /* Adjust font size for headings */
+    p {font-size: medium;} /* Adjust font size for paragraphs */
+    header {border: 10px;} /* Adjust border thickness for header */
+    section {border: 10px;} /* Adjust border thickness for sections */
+    img {border-radius: 3cm;} /* Adjust border radius for images */
+  }
+  
+  /* Media queries for larger screens */
+  @media screen and (min-width: 1200px) {
+    h1, h2, h3, h4, h5 {font-size: xx-large;} /* Adjust font size for headings */
+    p {font-size: x-large;} /* Adjust font size for paragraphs */
+    header {border: 20px;} /* Adjust border thickness for header */
+    section {border: 20px;} /* Adjust border thickness for sections */
+    img {border-radius: 7cm;} /* Adjust border radius for images */
